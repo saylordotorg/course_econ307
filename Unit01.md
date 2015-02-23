@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON307: International Trade"
+course_description: "A detailed survey of the theory behind international trade, trade policy issues, and the implications of tariffs and non-tariff barriers for trade and welfare. Covers theory of exchange rates, international finance, and global capital market."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: International Trade Theory** <span id="1"></span> 
 *Countries engage in international trade for two basic reasons, each of
 which contributes to the country’s gain from trade.  First, countries

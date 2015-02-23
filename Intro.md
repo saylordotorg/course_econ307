@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON307: International Trade"
+course_description: "A detailed survey of the theory behind international trade, trade policy issues, and the implications of tariffs and non-tariff barriers for trade and welfare. Covers theory of exchange rates, international finance, and global capital market."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "ECON307: International Trade"
 --------------------------------------------------
 

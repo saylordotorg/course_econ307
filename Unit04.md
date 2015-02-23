@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON307: International Trade"
+course_description: "A detailed survey of the theory behind international trade, trade policy issues, and the implications of tariffs and non-tariff barriers for trade and welfare. Covers theory of exchange rates, international finance, and global capital market."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: International Macroeconomic Policy** <span id="4"></span> 
 *In the previous unit, we saw how a country can use monetary, fiscal,
 and exchange rate policy to change the levels of employment and
